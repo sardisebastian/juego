@@ -1,0 +1,30 @@
+﻿{
+	"version": 1593653801,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/fondo-sheet0.png",
+		"images/piso1.png",
+		"images/tiledbackground2.png",
+		"images/pajaro-sheet0.png",
+		"images/tubo2-sheet0.png",
+		"images/tubo1-sheet0.png",
+		"images/tiledbackground3.png",
+		"images/reloj-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
+		"images/sprite10-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
